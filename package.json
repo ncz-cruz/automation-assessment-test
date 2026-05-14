@@ -1,0 +1,26 @@
+{
+  "name": "automation-assessment-test",
+  "version": "1.0.0",
+  "description": "Este é um repositório de exemplo para você começar a desenvolver a questão, leia com atenção os requisitos do enunciado da questão na plataforma e seguia as boas práticas sobre como utilizar este repositório.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncz-cruz/automation-assessment-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncz-cruz/automation-assessment-test/issues"
+  },
+  "homepage": "https://github.com/ncz-cruz/automation-assessment-test#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0",
+    "typescript": "^6.0.3"
+  }
+}
